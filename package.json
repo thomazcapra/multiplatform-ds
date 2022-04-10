@@ -14,6 +14,7 @@
     "tslib": "^2.0.0"
   },
   "devDependencies": {
+    "@babel/runtime": "7.17.8",
     "@nrwl/cli": "13.10.1",
     "@nrwl/detox": "13.10.1",
     "@nrwl/eslint-plugin-nx": "13.10.1",
@@ -48,6 +49,7 @@
     "jest-circus": "27.2.3",
     "jest-react-native": "18.0.0",
     "metro": "0.70.0",
+    "metro-config": "0.70.0",
     "metro-react-native-babel-preset": "0.70.0",
     "metro-resolver": "0.70.0",
     "nx": "13.10.1",

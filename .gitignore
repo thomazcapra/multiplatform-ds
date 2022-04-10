@@ -91,4 +91,4 @@ buck-out/
 **/ios/Pods/
 /
 
-apps/design-system-e2e/artifacts
+apps/react-native-app-e2e/artifacts

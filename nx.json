@@ -23,7 +23,7 @@
           "test",
           "e2e"
         ],
-        "accessToken": "NzFlZDRjMjYtMGY2MC00ODk0LTkxMGQtMDJiMGQ3OWMwNDY2fHJlYWQtd3JpdGU="
+        "accessToken": "MGZhZDhhNTUtNWIwYi00NjFkLWIzY2MtZTRkOGExZTA1ZGQwfHJlYWQtd3JpdGU="
       }
     }
   },
@@ -35,5 +35,5 @@
       }
     ]
   },
-  "defaultProject": "design-system"
+  "defaultProject": "react-native-app"
 }
