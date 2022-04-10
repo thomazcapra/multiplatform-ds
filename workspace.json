@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "projects": {
-    "react-native-app": "apps/react-native-app",
-    "react-native-app-e2e": "apps/react-native-app-e2e"
-  }
-}
